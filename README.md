@@ -1,4 +1,5 @@
 # Hot Wheels Stunt Track Driver 1998 `.MMD` Exporter
+![](https://github.com/chasseyblue/HW-Stunt-Track-Driver-MMD-Exporter/blob/main/preview/image.png)
 
 `mmd_export.py` is a focused Python 3 CLI for the currently proven `.MMD` geometry format used by **Hot Wheels Stunt Track Driver 1998**.
 
